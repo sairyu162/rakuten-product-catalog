@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>紹介商品一覧</title>
+<style>body{font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif;max-width:760px;margin:0 auto;padding:24px;background:#fafafa;color:#222}header{margin-bottom:24px}.pr{font-size:.9rem;color:#666}.card{background:#fff;border:1px solid #ddd;border-radius:14px;padding:16px;margin:16px 0;display:grid;grid-template-columns:140px 1fr;gap:18px}.card img{width:140px;height:140px;object-fit:contain;background:#fff;border-radius:8px}.card h2{font-size:1.1rem;margin:0 0 8px}.card p{line-height:1.6}.button{display:inline-block;padding:10px 14px;background:#222;color:#fff;text-decoration:none;border-radius:8px}.note{font-size:.82rem;color:#666}@media(max-width:520px){.card{grid-template-columns:1fr}.card img{width:100%;height:220px}}</style>
+</head>
+<body>
+<header><div class="pr">PR｜楽天アフィリエイトを利用しています</div><h1>紹介商品一覧</h1><p>Instagramプロフィールから訪れた方が、紹介商品を確認できます。</p></header>
+<main id="catalog"><p>読み込み中…</p></main>
+<script>
+fetch('products.json').then(r=>r.json()).then(data=>{
+ const root=document.getElementById('catalog'); root.innerHTML='';
+ data.products.filter(p=>p.active).forEach(p=>{const article=document.createElement('article');article.className='card';article.innerHTML=`<img src="${p.image}" alt="${p.product_name}"><div><div class="pr">${p.pr_disclosure}</div><h2>${p.product_name}</h2><p>${p.description}</p><a class="button" href="${p.affiliate_url}" rel="sponsored nofollow">商品ページを見る</a><p class="note">楽天アフィリエイトリンクを使用しています。</p></div>`;root.appendChild(article)});
+}).catch(()=>{document.getElementById('catalog').innerHTML='<p>商品一覧を読み込めませんでした。</p>'});
+</script>
+</body></html>

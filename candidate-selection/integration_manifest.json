@@ -1,0 +1,21 @@
+{
+  "status": "AUTO_SELECTION_PUBLICATION_READY",
+  "integration_method": "same GitHub Pages repository, candidate-selection subpath",
+  "expected_public_path": "/candidate-selection/",
+  "existing_root_files_modified": false,
+  "existing_root_catalog_modified": false,
+  "candidate_count": 4,
+  "selection_behavior": "SELECTED_PENDING_HUMAN_REVIEW",
+  "auto_adoption": false,
+  "affiliate_login": false,
+  "api_or_oauth": false,
+  "video_generation_before_human_approval": false,
+  "instagram_auto_posting": false,
+  "rakuten_room_auto_posting": false,
+  "files": [
+    "index.html",
+    "candidate_records.json",
+    "README.md",
+    "integration_manifest.json"
+  ]
+}

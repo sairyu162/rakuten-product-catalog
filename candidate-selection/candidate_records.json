@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at_utc": "2026-09-23T09:29:16.456863+00:00",
+  "collection_mode": "public_information_only",
+  "human_confirmation_required": true,
+  "auto_posting": false,
+  "api_or_oauth": false,
+  "candidates": [
+    {
+      "id": "public-rione-puconshoulder",
+      "product_name": "PUコンパクトショルダー",
+      "product_url": "https://item.rakuten.co.jp/rione/puconshoulder/",
+      "shop_name": "バッグ 財布 R.Bstyle",
+      "category": "レディースバッグ／ショルダーバッグ",
+      "price": {
+        "value": 2890,
+        "currency": "JPY",
+        "source": "公開商品ページ表示",
+        "verified_at": "2026-09-23"
+      },
+      "features": [
+        "PU素材",
+        "2ルーム仕様",
+        "長財布が横に入るサイズと商品ページに記載",
+        "ブラック・キャメル・ブラウンのカラー展開"
+      ],
+      "image_source": "公開楽天商品ページ。アフィリエイト画像選択画面では未確認。",
+      "image_count_public_page": 23,
+      "image_usage_status": "AFFILIATE_UNVERIFIED",
+      "same_product_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "model_presence_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "source_text_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "image_eligibility_status": "IMAGE_REVIEW",
+      "affiliate_link": "",
+      "affiliate_link_status": "AFFILIATE_UNVERIFIED",
+      "selection_reason": "バッグ単体の商品ページで、サイズ・素材・カラーが公開情報として整理されているため。",
+      "notes": "公開ページでは売り切れ表示が確認されたため、在庫と価格を楽天アフィリエイト画面で再確認する。レビューや人気は選定理由に使用しない。",
+      "eligible_for_video": false
+    },
+    {
+      "id": "public-alohadiaries-aikane-minitotebag",
+      "product_name": "ハワイアン ミニトートバッグ",
+      "product_url": "https://item.rakuten.co.jp/alohadiaries/aikane-minitotebag-khk/",
+      "shop_name": "ALOHA Diaries ハワイアン雑貨",
+      "category": "レディースバッグ／ミニトート",
+      "price": {
+        "value": 1980,
+        "currency": "JPY",
+        "source": "公開商品ページ表示",
+        "verified_at": "2026-09-23"
+      },
+      "features": [
+        "サイドポケット2個と内ポケット",
+        "5色展開と商品ページに記載",
+        "キャンバス系素材とサイズ情報が公開されている"
+      ],
+      "image_source": "公開楽天商品ページ。アフィリエイト画像選択画面では未確認。",
+      "image_count_public_page": 21,
+      "image_usage_status": "AFFILIATE_UNVERIFIED",
+      "same_product_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "model_presence_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "source_text_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "image_eligibility_status": "IMAGE_REVIEW",
+      "affiliate_link": "",
+      "affiliate_link_status": "AFFILIATE_UNVERIFIED",
+      "selection_reason": "色展開とポケット仕様が確認でき、商品比較型のReels候補として整理しやすいため。",
+      "notes": "ハワイアン柄や装飾要素が画像利用条件に影響する可能性があるため、画像単位で人間確認する。",
+      "eligible_for_video": false
+    },
+    {
+      "id": "public-backyard-ecotote",
+      "product_name": "キャラクター エコマーク付き トートバッグ",
+      "product_url": "https://item.rakuten.co.jp/backyard-1/ecotote/",
+      "shop_name": "BACKYARD FAMILY バッグタウン",
+      "category": "レディースバッグ／トート・エコバッグ",
+      "price": {
+        "value": 892,
+        "currency": "JPY",
+        "source": "公開商品ページ表示",
+        "verified_at": "2026-09-23"
+      },
+      "features": [
+        "コットン素材",
+        "持ち手が長いと商品ページに記載",
+        "複数のキャラクター柄とサイズ情報が公開されている"
+      ],
+      "image_source": "公開楽天商品ページ。アフィリエイト画像選択画面では未確認。",
+      "image_count_public_page": 35,
+      "image_usage_status": "AFFILIATE_UNVERIFIED",
+      "same_product_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "model_presence_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "source_text_status": "HUMAN_IMAGE_CHECK_REQUIRED",
+      "image_eligibility_status": "IMAGE_REVIEW",
+      "affiliate_link": "",
+      "affiliate_link_status": "AFFILIATE_UNVERIFIED",
+      "selection_reason": "低価格帯で複数柄があり、比較紹介の候補として公開情報を整理しやすいため。",
+      "notes": "キャラクター柄を含むため、権利・画像利用条件を人間が楽天アフィリエイト画面で確認するまで採用しない。",
+      "eligible_for_video": false
+    },
+    {
+      "id": "existing-rione-canvas2way",
+      "product_name": "canvas2way 2WAYバッグ",
+      "product_url": "https://item.rakuten.co.jp/rione/canvas2way/",
+      "shop_name": "バッグ 財布 R.Bstyle",
+      "category": "レディースバッグ／キャンバス2WAYバッグ",
+      "price": {
+        "value": 4190,
+        "currency": "JPY",
+        "source": "公開商品ページ表示",
+        "verified_at": "2026-09-23"
+      },
+      "features": [
+        "手提げ・ショルダーの2WAY仕様と商品ページに記載",
+        "キャンバス素材",
+        "ファスナー開閉と複数ポケットの記載",
+        "複数カラー展開"
+      ],
+      "image_source": "既存の人間確認済み素材。新規自動取得はしていない。",
+      "image_count_public_page": 20,
+      "image_usage_status": "既存確認済み",
+      "same_product_status": "既存確認済み",
+      "model_presence_status": "既存確認済み",
+      "source_text_status": "既存確認済み",
+      "image_eligibility_status": "IMAGE_OK",
+      "affiliate_link": "https://a.r10.to/hYfNzc",
+      "affiliate_link_status": "VERIFIED",
+      "selection_reason": "既存システムで人間確認済みのため、候補収集フローの回帰確認用に含める。",
+      "notes": "既存の完成動画・投稿記録・商品カタログは変更しない。新規候補の自動採用を意味しない。",
+      "eligible_for_video": true
+    }
+  ]
+}

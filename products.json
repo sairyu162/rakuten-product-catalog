@@ -1,0 +1,36 @@
+{
+  "catalog_version": "1.0.0",
+  "title": "紹介商品一覧",
+  "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+  "products": [
+    {
+      "id": "canvas2way",
+      "product_name": "canvas2way 2WAYバッグ",
+      "product_url": "https://item.rakuten.co.jp/rione/canvas2way/",
+      "affiliate_url": "https://a.r10.to/hYfNzc",
+      "image": "images/canvas2way.webp",
+      "description": "カラー違いの3枚で紹介している2WAYバッグです。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "image_status": "IMAGE_OK",
+      "affiliate_verification_status": "VERIFIED",
+      "human_image_check_status": "APPROVED",
+      "active": true
+    },
+    {
+      "id": "satchel_f3372",
+      "product_name": "たすかるっかばん サッチェル ショルダーバッグ",
+      "product_url": "https://item.rakuten.co.jp/e-zakkamania/21127-2400853/",
+      "affiliate_url": "https://a.r10.to/hYWGWS",
+      "product_number": "21127-2400853",
+      "model": "LH-F3372",
+      "shop_name": "イーザッカマニアストアーズ",
+      "image": "images/satchel_f3372.webp",
+      "description": "Legato Largoのたすかるっかばんシリーズ。サッチェル型のショルダーバッグです。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "image_status": "IMAGE_OK",
+      "affiliate_verification_status": "VERIFIED",
+      "human_image_check_status": "APPROVED",
+      "active": true
+    }
+  ]
+}

@@ -31,6 +31,18 @@
       "affiliate_verification_status": "VERIFIED",
       "human_image_check_status": "APPROVED",
       "active": true
+    }    {
+      "id": "v00304",
+      "product_name": "ショート レザーコード コードネックレス",
+      "product_url": "https://item.rakuten.co.jp/cream-dot/v00304/",
+      "affiliate_url": "https://a.r10.to/hoTaEn",
+      "image": "images/v00304.webp",
+      "description": "シンプルなレザーコードにゴールド・シルバーのパーツを合わせたネックレスです。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "image_status": "IMAGE_OK",
+      "affiliate_verification_status": "VERIFIED",
+      "human_image_check_status": "APPROVED",
+      "active": true
     }
   ]
 }

@@ -31,6 +31,19 @@
       "affiliate_verification_status": "VERIFIED",
       "human_image_check_status": "APPROVED",
       "active": true
+    },
+    {
+      "id": "QD6538",
+      "product_name": "2WAY フナガタ バッグ M / ショルダーバッグ はっ水",
+      "product_url": "https://item.rakuten.co.jp/stylife/qd6538/",
+      "affiliate_url": "https://a.r10.to/hgcOL0",
+      "image": "images/QD6538-selected-1.jpg",
+      "description": "2WAY フナガタ バッグ M / ショルダーバッグ はっ水。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "image_status": "IMAGE_OK",
+      "affiliate_verification_status": "VERIFIED",
+      "human_image_check_status": "APPROVED",
+      "active": true
     }
   ]
 }

@@ -44,6 +44,19 @@
       "affiliate_verification_status": "VERIFIED",
       "human_image_check_status": "APPROVED",
       "active": true
+    },
+    {
+      "id": "bllb-x1315n",
+      "product_name": "【11ポケット】通勤バッグ レディース A4 ショルダーバッグ トートバッグ",
+      "product_url": "https://item.rakuten.co.jp/vitafelice/bllb-x1315n/",
+      "affiliate_url": "https://a.r10.to/hYe00C",
+      "image": "images/bllb-x1315n-1.jpg",
+      "description": "A4サイズ対応、ポケット収納が豊富なショルダートートバッグ。パスケース付き。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "image_status": "IMAGE_OK",
+      "affiliate_verification_status": "VERIFIED",
+      "human_image_check_status": "APPROVED",
+      "active": true
     }
   ]
 }

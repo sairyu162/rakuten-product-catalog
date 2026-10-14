@@ -57,6 +57,19 @@
       "affiliate_verification_status": "VERIFIED",
       "human_image_check_status": "APPROVED",
       "active": true
+    },
+    {
+      "id": "4909978204938",
+      "product_name": "エリクシール シュペリエル ザ セラム aa つけかえ用（50ml）",
+      "product_url": "https://item.rakuten.co.jp/rakuten24/4909978204938/",
+      "affiliate_url": "https://a.r10.to/h5JvB6",
+      "image": "images/4909978204938-1.jpg",
+      "description": "エリクシールのつけかえ用美容液。商品ページで確認できる商品情報をご覧ください。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "image_status": "IMAGE_OK",
+      "affiliate_verification_status": "VERIFIED",
+      "human_image_check_status": "APPROVED",
+      "active": true
     }
   ]
 }

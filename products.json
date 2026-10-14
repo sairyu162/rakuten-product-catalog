@@ -70,6 +70,19 @@
       "affiliate_verification_status": "VERIFIED",
       "human_image_check_status": "APPROVED",
       "active": true
+    },
+    {
+      "id": "g50-19l",
+      "product_name": "GLADELI G50-19 サングラス 伊達メガネ",
+      "product_url": "https://item.rakuten.co.jp/viewmaster/g50-19l/",
+      "affiliate_url": "https://a.r10.to/h5NrbP",
+      "image": "images/g50-19l-1.jpg",
+      "description": "GLADELI G50-19のサングラス・伊達メガネ。詳しい商品情報は商品ページをご確認ください。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "image_status": "IMAGE_OK",
+      "affiliate_verification_status": "VERIFIED",
+      "human_image_check_status": "APPROVED",
+      "active": true
     }
   ]
 }

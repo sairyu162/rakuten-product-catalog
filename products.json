@@ -93,6 +93,16 @@
       "description": "CHARLES & KEITHのChance バケットバッグ。商品ページで確認できる商品情報をご覧ください。",
       "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
       "active": true
+    },
+    {
+      "id": "101-01",
+      "product_name": "Yunth 生ビタミンC 美白美容液 1ml×28包",
+      "product_url": "https://item.rakuten.co.jp/yunth/10000000/",
+      "affiliate_url": "https://a.r10.to/h8Gtiv",
+      "image": "images/101-01-1.jpg",
+      "description": "1ml×28包の個包装タイプの美容液。詳しい商品情報は商品ページをご確認ください。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "active": true
     }
   ]
 }

@@ -83,6 +83,16 @@
       "affiliate_verification_status": "VERIFIED",
       "human_image_check_status": "APPROVED",
       "active": true
+    },
+    {
+      "id": "QS6427",
+      "product_name": "Chance チャンス メタリックアクセントバケットバッグ",
+      "product_url": "https://brandavenue.rakuten.co.jp/item/QS6427/",
+      "affiliate_url": "https://a.r10.to/hFHGP6",
+      "image": "images/QS6427-1.jpg",
+      "description": "CHARLES & KEITHのChance バケットバッグ。商品ページで確認できる商品情報をご覧ください。",
+      "pr_disclosure": "PR｜楽天アフィリエイトを利用しています",
+      "active": true
     }
   ]
 }
